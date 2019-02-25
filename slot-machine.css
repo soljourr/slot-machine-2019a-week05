@@ -1,0 +1,12 @@
+h1{
+  text-align: center;
+  color: white;
+}
+#container{
+  width: 20%;
+  color: white;
+  margin: 0 auto;
+}
+body{
+  background-color: black;
+}
