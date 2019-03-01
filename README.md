@@ -2,6 +2,8 @@
 # Slot Machine
 An application where user can press a  button to place maximum and minimum bets which will trigger three reels of five names to generate a random choice like a slot machine.
 
+[alt tag](Slotmachine-Screenshot.png)
+
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript
